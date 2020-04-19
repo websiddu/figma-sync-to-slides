@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "3eee0e5314a3709f31f13159f1f911d1",
+    "revision": "b2c68bf7cc6ca675a145c312ad96b971",
     "url": "/figma-sync-to-slides/index.html"
   },
   {
-    "revision": "aa5f2ea78a8818c3cf36",
+    "revision": "2c3643ed727ec77d8748",
     "url": "/figma-sync-to-slides/static/css/main.e060784b.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/figma-sync-to-slides/static/js/2.da1ae742.chunk.js"
   },
   {
-    "revision": "aa5f2ea78a8818c3cf36",
-    "url": "/figma-sync-to-slides/static/js/main.3cf9d4d4.chunk.js"
+    "revision": "2c3643ed727ec77d8748",
+    "url": "/figma-sync-to-slides/static/js/main.6bc70fbb.chunk.js"
   },
   {
     "revision": "fa2723ec0e480ee2dc34",
@@ -52,8 +52,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/figma-sync-to-slides/static/media/logo-text.24295080.svg"
   },
   {
-    "revision": "85b83badb0a9f598c1efac4c8bffe3f8",
-    "url": "/figma-sync-to-slides/static/media/logo.85b83bad.svg"
+    "revision": "d27e46ab6d16010a7ecc128692508129",
+    "url": "/figma-sync-to-slides/static/media/logo.d27e46ab.svg"
   },
   {
     "revision": "a50a68835b6d2d451e3b2651fc150e2d",

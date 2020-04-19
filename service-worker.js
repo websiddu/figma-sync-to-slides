@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/figma-sync-to-slides/precache-manifest.b8e68dd990f79ec869db3d64360a8171.js"
+  "/figma-sync-to-slides/precache-manifest.408cf0319c9db2428dd8ba6b36a8ae5b.js"
 );
 
 self.addEventListener('message', (event) => {
